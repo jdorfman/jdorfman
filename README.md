@@ -1,6 +1,10 @@
-### Hi there 👋
+Hi there 👋
 
-Follow [@jdorfman](https://twitter.com/jdorfman)
+𝕏 [@jdorfman](https://x.com/jdorfman)
+
+🎙️ [Podcasts](https://podcast.sustainoss.org/hosts/justin-dorfman)
+
+🗞️ [Newsletter](https://tncc-newsletter.com/)
 
 <!--
 **jdorfman/jdorfman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
